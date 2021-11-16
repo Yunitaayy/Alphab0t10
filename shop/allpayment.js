@@ -4,10 +4,10 @@ return `PAYMENT BY Yunitaayy
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 088239855250
+	ㅁ 0882 3985 5250
 		• ni**st***
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0882 3985 5250
 		• ni**St***
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
