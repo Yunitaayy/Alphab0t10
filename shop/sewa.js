@@ -3,11 +3,11 @@ return `「 *PRICE LIST* 」
 							
 ⬣ PRICE SEWABOT
 
-⬡ 1 MINGGU = ${_1000}
-⬡ 2 MINGGU = ${__2000}
-⬡ 3 MINGGU = ${___3000}
-⬡ 1 BULAN = ${_4000}
-⬡ PERMANEN = ${_5000}
+⬡ 1 MINGGU = ${_1000 MINGGU}
+⬡ 2 MINGGU = ${__2000 MINGGU}
+⬡ 3 MINGGU = ${___3000 MINGGU}
+⬡ 1 BULAN = ${_4000 BULAN}
+⬡ PERMANEN = ${_5000 PERMANEN}
 
 
 
